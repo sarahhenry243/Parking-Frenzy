@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2300000}
   - component: {fileID: 6400000}
   - component: {fileID: 5400000}
+  - component: {fileID: -4687832458864700997}
   m_Layer: 0
   m_Name: trafficConeGrunge
   m_TagString: Untagged
@@ -141,3 +142,24 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &-4687832458864700997
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.1315408, y: 3.0393407, z: 2.2240746}
+  m_Center: {x: -0.018551467, y: 1.2660314, z: -0.014203488}
