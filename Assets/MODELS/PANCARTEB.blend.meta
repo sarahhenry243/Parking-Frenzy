@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9c58ed0e476fc4c8d8915440469d2464
+guid: c569091837dbb47b19cfe879666cba01
 ModelImporter:
   serializedVersion: 24300
   internalIDToNameTable: []
@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ECRITURE
-    second: {fileID: 2100000, guid: 3fdfbe227acba4c6da2e37d784afcc44, type: 2}
+    second: {fileID: 2100000, guid: 9700c5eaf23924e1d92b4c67a883fc66, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material
-    second: {fileID: 2100000, guid: e6be8bedf158746468cdc08327880dd3, type: 2}
+    second: {fileID: 2100000, guid: 7309a993e78044ed78b0901891545981, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
